@@ -44,4 +44,4 @@ for field in fields:
         )
 
         # save images
-        fig.write_image(f'{field}.png')
+        fig.write_image(f'imgs/{field}.png')
